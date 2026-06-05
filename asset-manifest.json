@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BunaBete/static/css/main.53c3babe.css",
+    "main.js": "/BunaBete/static/js/main.aa6ab808.js",
+    "index.html": "/BunaBete/index.html",
+    "main.53c3babe.css.map": "/BunaBete/static/css/main.53c3babe.css.map",
+    "main.aa6ab808.js.map": "/BunaBete/static/js/main.aa6ab808.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53c3babe.css",
+    "static/js/main.aa6ab808.js"
+  ]
+}
